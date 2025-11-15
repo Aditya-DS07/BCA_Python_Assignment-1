@@ -1,0 +1,12 @@
+-------------------------------------------
+        |Student Profile System|
+-------------------------------------------
+      Name:         Aditya
+      Roll no:      2501060126
+      Course:       BCA (AI & DS)
+      University:   K.R. Mangalam University
+      City:         Gurugram
+      Age:          18
+      Hobby:        Reading, Coding
+-------------------------------------------
+WELCOME TO PYTHON PROGRAMMING!!
